@@ -17,7 +17,7 @@ export const App = defineComponent({
       <div>
         <RouterView />
       </div>
-      <footer>页脚</footer>
+      <footer>页脚 </footer>
     </>
 
   }
