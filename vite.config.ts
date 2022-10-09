@@ -8,7 +8,7 @@ export default defineConfig({
     vue(),
     vueJsx({
       transformOn: true,
-      mergeProps: true
-    })
-  ]
+      mergeProps: true,
+    }),
+  ],
 })
